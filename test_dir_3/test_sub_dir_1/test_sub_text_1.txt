@@ -1,1 +1,1 @@
-Комит 1 для файла test_sub_text_1.txt
+Комит 2 для файла test_sub_text_1.txt
